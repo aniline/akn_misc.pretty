@@ -25,4 +25,9 @@
   (pad 4 thru_hole circle (at 1.53 -8.3) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 6 -6) (size 2 2) (drill 1.9) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -6 -6) (size 2 2) (drill 1.9) (layers *.Cu *.Mask F.SilkS))
+  (model akn.3dshapes/RJ11_6P_4C_623PCB.x3d
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
