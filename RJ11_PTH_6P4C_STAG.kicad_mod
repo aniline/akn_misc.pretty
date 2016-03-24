@@ -1,4 +1,4 @@
-(module RJ11_PTH_6P4C_STAG (layer F.Cu) (tedit 56BB6E64)
+(module RJ11_PTH_6P4C_STAG (layer F.Cu) (tedit 56E54E73)
   (tags "RJ11 6P4C")
   (fp_text reference REF** (at 0 -13.716) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -23,8 +23,8 @@
   (pad 1 thru_hole circle (at -1.53 -10.84) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -0.51 -8.3) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 1.53 -8.3) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (pad "" np_thru_hole circle (at 6 -6) (size 2 2) (drill 1.9) (layers *.Cu *.Mask F.SilkS))
-  (pad "" np_thru_hole circle (at -6 -6) (size 2 2) (drill 1.9) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at 6 -6) (size 2.5 2.5) (drill 2.3) (layers *.Cu *.Mask F.SilkS))
+  (pad "" np_thru_hole circle (at -6 -6) (size 2.5 2.5) (drill 2.3) (layers *.Cu *.Mask F.SilkS))
   (model akn.3dshapes/RJ11_6P_4C_623PCB.x3d
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
